@@ -11660,6 +11660,7 @@ p {
 
 .title {
   font-size: calc(15px + (20 - 15) * ((100vw - 300px) / (1300 - 300)));
+  
 }
 
 .btn-rounded {
@@ -12281,6 +12282,11 @@ pre .code {
   }
   .infos .socials {
     margin-top: 20px;
+  }
+
+  .container .title {
+    width: 95%;
+    /* background-color: red; */
   }
 }
 
